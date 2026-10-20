@@ -1,0 +1,4 @@
+loan_id,customer_id,loan_type,principal_amount,outstanding_amount,emi_amount,next_emi_date,loan_status
+LN1001,C001,Personal Loan,100000,45000,5000,2026-11-05,ACTIVE
+LN1002,C002,Personal Loan,150000,78000,6500,2026-11-10,ACTIVE
+LN1003,C001,Vehicle Loan,300000,210000,10000,2026-11-15,ACTIVE

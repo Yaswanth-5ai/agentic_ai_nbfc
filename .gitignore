@@ -1,0 +1,28 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Local databases
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Generated audio
+*.wav
+*.mp3
+*.ogg
+
+# Operating system
+.DS_Store
+Thumbs.db
